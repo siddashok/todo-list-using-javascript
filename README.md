@@ -1,4 +1,4 @@
-# todo-list-using-javascript
+<h1> To-Do list ! </h1>
 A simple Todo list using javascript. The user have the feasibility to add things to the ToDo
 list and delete elements either one by one or all at once.
 
